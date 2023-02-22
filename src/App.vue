@@ -14,7 +14,7 @@ export default {
   },
   data() {
     return {
-      logo_src: "img/logo.png ",
+      logo_src: "../src/assets/logo.png",
       app_name: "Make Your Burger",
     };
   },
