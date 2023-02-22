@@ -21,6 +21,13 @@
         <option value="maminha">Maminha</option>
     </select>        
     </div>
+    <div class="input-container">
+        <label for="meat">Escolha a carne:</label>
+        <select name="meat" id="meat" v-model="meat">
+        <option value="">Selecione o tipo de carne</option>
+        <option value="maminha">Maminha</option>
+    </select>        
+    </div>
         </form>
 </div>
    </div>
