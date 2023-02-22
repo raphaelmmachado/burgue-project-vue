@@ -10,7 +10,7 @@ export default {
 </script>
 <style scoped>
 #main-banner {
-  background-image: url("../assets/burger.jpg");
+  background-image: url("@/assets/burger.jpg");
   background-position: 0 -250px;
   background-size: cover;
   height: 500px;
